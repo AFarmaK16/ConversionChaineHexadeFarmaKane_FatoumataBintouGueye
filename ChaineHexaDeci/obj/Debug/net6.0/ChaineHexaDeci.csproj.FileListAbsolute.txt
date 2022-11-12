@@ -1,0 +1,15 @@
+C:\Users\Adja\source\repos\ChaineHexaDeci\bin\Debug\net6.0\ChaineHexaDeci.exe
+C:\Users\Adja\source\repos\ChaineHexaDeci\bin\Debug\net6.0\ChaineHexaDeci.deps.json
+C:\Users\Adja\source\repos\ChaineHexaDeci\bin\Debug\net6.0\ChaineHexaDeci.runtimeconfig.json
+C:\Users\Adja\source\repos\ChaineHexaDeci\bin\Debug\net6.0\ChaineHexaDeci.dll
+C:\Users\Adja\source\repos\ChaineHexaDeci\bin\Debug\net6.0\ChaineHexaDeci.pdb
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.csproj.AssemblyReference.cache
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.AssemblyInfoInputs.cache
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.AssemblyInfo.cs
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.csproj.CoreCompileInputs.cache
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.dll
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\refint\ChaineHexaDeci.dll
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.pdb
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ChaineHexaDeci.genruntimeconfig.cache
+C:\Users\Adja\source\repos\ChaineHexaDeci\obj\Debug\net6.0\ref\ChaineHexaDeci.dll
